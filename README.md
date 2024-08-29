@@ -49,7 +49,7 @@
     - [chihoonlee10/T3Q-ko-solar-dpo-v7.0 (캐글 / T4 x2에서 학습 진행)]  
         - 적절한 맥락을 선택을 유도하는 과제임에 따라 LeaderBoard 시즌 1 모델 중 instruction-tuned된 모델이며 동시에 Average 기준으로 상위 5위 안의 모델 중 선택  
     - [rtzr/ko-gemma-2-9b-it (코랩 / A100에서 학습 진행)]  
-        - ogicKor의 한국어 언어모델 다분야 사고력 벤치마크 상위권인 ko-gemma-2-9b-it 모델을 선택. 또한 it의 의미가 instruction tuning 이므로 SFT 최적화 모델임에 따라 선택  
+        - LogicKor의 한국어 언어모델 다분야 사고력 벤치마크 상위권인 ko-gemma-2-9b-it 모델을 선택. 또한 it의 의미가 instruction tuning 이므로 SFT 최적화 모델임에 따라 선택  
 - Data Processing
     - CoT(Chain-of-Thought)를 다양한 방법으로 적용  
 - Ensemble
